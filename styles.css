@@ -1,5 +1,5 @@
 html {
-  background: #018ded url(http://unsplash.it/1500/1000?image=881&blur=50);
+  background: #018ded url("/assets/images/background.jpg");
   background-size: cover;
   font-family: "helvetica neue";
   text-align: center;
@@ -37,7 +37,7 @@ body {
 .hand {
   width: 50%;
   height: 6px;
-  background: black;
+  background: white;
   position: absolute;
   top: 50%;
   transform-origin: 100%;
