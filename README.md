@@ -1,1 +1,0 @@
-# js-analog-clock
